@@ -10,6 +10,7 @@ CMD apachectl -D FOREGROUND
 
 
 master.sh script file:
+
 sudo apt install docker.io -y
 
 sudo apt install openjdk-11-jdk -y
@@ -26,6 +27,7 @@ sudo apt-get install jenkins -y
 
 
 slave.sh script file:
+
 sudo apt install docker.io -y
 
 sudo apt install openjdk-11-jdk -y
